@@ -1,7 +1,6 @@
 <?php
 /*
  * This is controller extends Base controller 
- * and use authorizes and validation request traits.
 */
 namespace App\Http\Controllers;
 
